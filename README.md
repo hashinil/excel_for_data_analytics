@@ -15,7 +15,7 @@ This project aims to explore and analyze coffee sales data to derive valuable in
 
 -------------------------------------------
 
-:round_pushpin: 1. [Excel Skills](https://github.com/hashinil/excel_data_analitics)
+:round_pushpin: 1. [Excel Skills](https://github.com/hashinil/excel_skills_for_data_analitics)
 
 Here I have practicse most usefull functionalities in **Excel** for data analysis, such as; :feet::feet::feet:
   - **Pivot Tables**
